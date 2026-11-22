@@ -1,6 +1,6 @@
 # Hi, ich bin Ali Aghaebrahimian 👋
 
-**IT-Absolvent (B.Sc.) & Office Manager | Ziel: Ausbildung zum Fachinformatiker**
+**IT-Absolvent | Anwendungsentwicklung & Datenbanken | Suche Ausbildung oder Berufseinstieg im IT-Bereich**
 
 ---
 
@@ -40,7 +40,7 @@ Als Quereinsteiger mit einem abgeschlossenen IT-Studium und fundierter Berufserf
 
 ### 📫 Kontakt
 *   **E-Mail:** 2aaghaebrahimian@gmail.com
-*   **LinkedIn:** [لینک لینکدین خودت را اینجا قرار بده]
+*   **LinkedIn:** www.linkedin.com/in/ali-aghaebrahimian
 
 ---
 
@@ -127,4 +127,4 @@ I bring a unique hybrid profile: a technical foundation combined with structured
 
 ## 📫 Contact / Kontakt / تماس
 *   **Email:** 2aaghaebrahimian@gmail.com
-*   **LinkedIn:** [لینک لینکدین خودت را اینجا قرار بده]
+*   **LinkedIn:** www.linkedin.com/in/ali-aghaebrahimian
